@@ -5,6 +5,7 @@ layout: default
 # Alex Musayev
 
 Full stack web developer
+{: .lead}
 
 - Email: [alex@musayev.com](mailto:alex@musayev.com)
 - Skype: dreikanter
