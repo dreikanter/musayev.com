@@ -13,14 +13,42 @@
   </title>
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <script src="https://kit.fontawesome.com/b35e04da1d.js"></script>
-
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <style>
+    h1, h2, h3 {
+      font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    }
+
+    h2 {
+      margin-top: 1.2em;
+    }
+
+    h3 {
+      font-size: 1.25rem;
+      margin-top: 2em;
+    }
+
+    h3 > em {
+      font-style: normal;
+    }
+
+    .layout {
+      font-size:  1.1rem;
+      margin: calc(1em + 2vh) auto;
+      max-width: 800px;
+      width: calc(100% - 1em);
+    }
+
+    .download {
+      margin-top: 2em;
+      right: 0;
+      top: 0;
+    }
+  </style>
 </head>
 <body>
-  <div class="container content-container">
-    <main>
-      {{ content }}
-    </main>
-  </div>
+  <main class="container layout">
+    {{ content }}
+  </main>
 </body>
 </html>
