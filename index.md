@@ -40,9 +40,7 @@ Ruby, Ruby on Rails, React, Redux, react-router, react-thunk, UI component libra
 
 ### _2014–2017:_ **Full stack developer** at UpWork (Freelance)
 
-General web development, API integration, performance optimization, e-commerce services, infrastructure automation, etc.
-
-5 stars rating at UpWork: [https://musayev.com/upwork](https://musayev.com/upwork)
+General web development, API integration, performance optimization, e-commerce services, infrastructure automation, etc. [5 stars rating with 100% job success](/upwork).
 
 Ruby, Ruby on Rails, client-side vanilla JavaScript, HTML5 APIs, CSS3, SASS, PostgreSQL, MySQL.
 
