@@ -40,7 +40,7 @@ Ruby, Ruby on Rails, React, Redux, react-router, react-thunk, UI component libra
 
 <h3><span class="text-muted">2014–2017:</span> <b>Full stack developer</b> at UpWork (Freelance)</h3>
 
-General web development, API integration, performance optimization, e-commerce services, infrastructure automation, etc. [5 stars rating with 100% job success](/upwork).
+General web development, API integration, performance optimization, e-commerce services, infrastructure automation, etc. [5 stars rating](/upwork) with 100% job success.
 
 Ruby, Ruby on Rails, client-side vanilla JavaScript, HTML5 APIs, CSS3, SASS, PostgreSQL, MySQL.
 
@@ -84,11 +84,15 @@ C, C#, MySQL, HTML, CSS
 
 Most of my personal projects are open source ([https://github.com/dreikanter](https://github.com/dreikanter)). There are libraries and tools for system automation, text processing, web content management, Google Chrome extensions, etc. Here are some examples:
 
-- Freefeed Feeder ([https://frf.im](https://frf.im)) - an automated content publishing service built for FreeFeed.net (an open source social network). [https://github.com/dreikanter/feeder](https://github.com/dreikanter/feeder)
+- Freefeed Feeder ([https://frf.im](https://frf.im), [https://github.com/dreikanter/feeder](https://github.com/dreikanter/feeder)) — an automated content publishing service built for FreeFeed.net (an open source social network).
 
-- public-static ([https://github.com/dreikanter/public-static](https://github.com/dreikanter/public-static)) - a static website builder that I've been using for a personal blog.
+- public-static ([https://github.com/dreikanter/public-static](https://github.com/dreikanter/public-static)) — a static website builder that I've been using for a personal blog.
 
-- Ruby Bookmarks ([https://github.com/dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks)) - a collection of essential bookmarks related to Ruby programming language. I've created it for personal use when I've just started learning Ruby, but soon it became quite popular. There is also Sublime Bookmarks ([https://github.com/dreikanter/sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks)), based on the same concept.
+- boodka ([https://github.com/dreikanter/boodka](https://github.com/dreikanter/boodka)) — personal budget calculator. An experimental project, inspired by YNAB lacking multi-currency support.
+
+- wp2md ([https://github.com/dreikanter/wp2md](https://github.com/dreikanter/wp2md)) — Wordpress data exporting tool for markdown-based static site builders.
+
+- Ruby Bookmarks ([https://github.com/dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks)) — a collection of essential bookmarks related to Ruby programming language. I've created it for personal use when I've just started learning Ruby, but soon it became quite popular. There is also Sublime Bookmarks ([https://github.com/dreikanter/sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks)), based on the same concept.
 
 ## Education
 
