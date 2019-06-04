@@ -32,51 +32,53 @@ I have 15 years of experience in IT, including 5 years working remotely. Love to
 
 ## Experience
 
-### _2015–2019:_ **Lead developer** at PassionDig Inc (Remote)
+<h3><span class="text-muted">2015–2019:</span> <b>Full stack developer, architect</b> at PassionDig Inc (Remote)</h3>
 
 Full stack web service development, system architecture and UX design, infrastructure automation. Requirements analysis, technical specs drafting, implementation planning and coordination, tech consulting. Interviewing and onboarding new developers, maintaining code convention and dev environment configuration, code reviews.
 
 Ruby, Ruby on Rails, React, Redux, react-router, react-thunk, UI component libraries, AWS infrastructure, PostgreSQL, Redis, ElasticSearch, Sidekiq, Ansible for server provisioning and deployment automation. Social media API integration.
 
-### _2014–2017:_ **Full stack developer** at UpWork (Freelance)
+<h3><span class="text-muted">2014–2017:</span> <b>Full stack developer</b> at UpWork (Freelance)</h3>
 
 General web development, API integration, performance optimization, e-commerce services, infrastructure automation, etc. [5 stars rating with 100% job success](/upwork).
 
 Ruby, Ruby on Rails, client-side vanilla JavaScript, HTML5 APIs, CSS3, SASS, PostgreSQL, MySQL.
 
-### _2013–2015:_ **Architect, web developer** at Softin.co (Remote)
+<h3><span class="text-muted">2013–2015:</span> <b>Architect, web developer</b> at Softin.co (Remote)</h3>
 
 Distributed systems design. Web services development. UX design and art direction for a mobile game.
 
 Ruby, Ruby on Rails.
 
-### _2012–2013:_ **Senior software developer** at Luxoft (Outsourcing)
+<h3><span class="text-muted">2012–2013:</span> <b>Senior software developer</b> at Luxoft</h3>
 
 Participated in enterprise projects development (Hewlett Packard, Modular Mining). New features development and existing codebase support. Technical documentation, interviewing and onboarding new developers.
 
 C#/.NET, WinForms (MVVM), WPF, Microsoft SQL Server.
 
-### _2008–2011:_ **Software developer** at Lanit-Tercom (Outsourcing, R&D)
+<h3><span class="text-muted">2008–2011:</span> <b>Software developer</b> at Lanit-Tercom (R&D)</h3>
 
 Enterprise software development, deployment and support. Requirements analysis, tasks decomposition and estimation, specifications drafting, project documentation. UI prototyping, IA design.
 
 .NET/C#, WinForms, WPF, PL/SQL, Java, Flex, Microsoft SQL Server, Microsoft Office integration.
 
-### _2006–2009:_ **Software developer** at SZMA LLC (R&D)
+<h3><span class="text-muted">2006–2009:</span> <b>Software developer</b> at SZMA LLC (R&D)</h3>
 
 Distributed software development, testing, deployment, and support. Desktop apps and web services for financial data collection and analysis. Middleware for Matlab integration with Metaquotes MetaTrader trading platform. Requirements analysis, specification drafting, and project documentation.
 
 .NET/C#, Matlab, MQL (Metatrader), MySQL, PHP, Python.
 
-### _2004–2008:_ **Postgraduate student, professor assistant** at St. Petersburg Institute for Informatics and Automation of the Russian Academy of Sciences
+<h3><span class="text-muted">2004–2008:</span> <b>Postgraduate student, professor assistant</b> at St. Petersburg Institute for Informatics and Automation of the Russian Academy of Sciences</h3>
 
 Research in the field of mathematical modeling, scientific conferences participation. Experimental software development (Java, C#).
 
 Learning course development for third-year university students at Admiral Makarov State University of Maritime and Inland Shipping: lecturing and running workshops on C/C++ programming and general software development, conducting examinations.
 
-### _2003–2007:_ **Software developer** at 7+11 Company Ltd.
+<h3><span class="text-muted">2003–2007:</span> <b>Software developer</b> at 7+11 Company Ltd.</h3>
 
 Distributed software development for enterprise automation and monitoring systems. Data aggregation and visualization. Embedded software development. Requirements analysis, technical documentation.
+
+C, C#, MySQL, HTML, CSS
 
 ## Personal projects
 
