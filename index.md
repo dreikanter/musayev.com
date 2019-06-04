@@ -88,7 +88,7 @@ Most of my personal projects are open source ([https://github.com/dreikanter](ht
 
 - public-static ([https://github.com/dreikanter/public-static](https://github.com/dreikanter/public-static)) — a static website builder that I've been using for a personal blog.
 
-- boodka ([https://github.com/dreikanter/boodka](https://github.com/dreikanter/boodka)) — personal budget calculator. An experimental project, inspired by YNAB lacking multi-currency support.
+- boodka ([https://github.com/dreikanter/boodka](https://github.com/dreikanter/boodka)) — a sugar-free personal budget calculator. An experimental project, inspired by YNAB lacking multi-currency support.
 
 - wp2md ([https://github.com/dreikanter/wp2md](https://github.com/dreikanter/wp2md)) — Wordpress data exporting tool for markdown-based static site builders.
 
