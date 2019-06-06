@@ -16,7 +16,7 @@ Full stack web developer
 
 ## About me
 
-I have 15 years of experience in IT, including 5 years working remotely. Love to build robust and convenient tools that help people to save time and transform complex to simple. As a remote developer, I value transparent communication and workflows. I can work independently or join a team. I have experience in leading a small development team as well.
+I have 15 years of experience in software development, including 5 years working remotely. Love to build robust and convenient tools that help people to save time and transform complex to simple. As a remote developer, I value transparent communication and workflows. I can work independently or join a team. I have experience in leading a small development team as well.
 
 ## Technologies
 
