@@ -60,7 +60,7 @@ As a remote developer, I value transparent communication and workflows. I can wo
 
 <h3><span class="text-muted">2015–2019:</span> <b>Full stack developer, architect</b> at PassionDig Inc</h3>
 
-**Responsibilities:** System design and features development for an educational web service. Customer requirements analysis, specs drafting and implementation planning. Interviewing and onboarding new developers, maintaining dev environment, performing code reviews.
+**Responsibilities:** System design and features development for web applications. Customer requirements analysis, specs drafting and implementation planning. Interviewing and onboarding new developers, maintaining common dev environment and conventions, code reviews.
 
 **Achievements:** I’ve built an MVP version for an in-person educational service from scratch. Implemented geo-location search engine with flexible ranking logic. Created domain-specific web analytics backend for marketing team. Integrated third-party services, including Google Maps, Stripe, PayPal, Twitter, Facebook, helpdesk software with single sign-on capability, etc. Automated provisioning and deployment workflows. Created UI style guide based on custom reusable React component. Improved Rails application performance. Significantly reduced AWS operational costs for a SAAS infrastructure.
 
