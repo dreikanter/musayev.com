@@ -33,7 +33,7 @@ layout: default
   <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 download-container">
     <a href="/alex-musayev-cv.pdf" class="btn btn-success">
       <i class="fas fa-cloud-download-alt"></i>
-      Download a brief PDF
+      Download brief PDF
     </a>
   </div>
 </div>
