@@ -64,37 +64,37 @@ As a remote developer, I value transparent communication and workflows. I can wo
 
 **Achievements:** I’ve built an MVP version for an in-person educational service from scratch. Implemented geo-location search engine with flexible ranking logic. Created domain-specific web analytics backend for marketing team. Integrated third-party services, including Google Maps, Stripe, PayPal, Twitter, Facebook, helpdesk software with single sign-on capability, etc. Automated provisioning and deployment workflows. Created UI style guide based on custom reusable React component. Improved Rails application performance. Significantly reduced AWS operational costs for a SAAS infrastructure.
 
-<i class="fas fa-tools"></i> Ruby, Ruby on Rails, React, Redux, react-router, react-thunk, UI component libraries, AWS infrastructure, PostgreSQL, Redis, ElasticSearch, Sidekiq, Ansible for server provisioning and deployment automation. Social media API integration.
+<i class="fas fa-tools tech-icon"></i> Ruby, Ruby on Rails, React, Redux, react-router, react-thunk, UI component libraries, AWS infrastructure, PostgreSQL, Redis, ElasticSearch, Sidekiq, Ansible for server provisioning and deployment automation. Social media API integration.
 
 <h3><span class="text-muted">2014–2017:</span> <b>Full stack developer</b> at UpWork</h3>
 
 Participated in multiple projects as a full-stack web developer. My responsibilities included features development and performance optimization for Rails apps, payment services and social API integration, system automation, etc. Got [5 stars rating](/upwork) rating with 100% job success.
 
-<i class="fas fa-tools"></i> Ruby, Ruby on Rails, client-side vanilla JavaScript, HTML5 APIs, CSS3, SASS, PostgreSQL, MySQL.
+<i class="fas fa-tools tech-icon"></i> Ruby, Ruby on Rails, client-side vanilla JavaScript, HTML5 APIs, CSS3, SASS, PostgreSQL, MySQL.
 
 <h3><span class="text-muted">2013–2015:</span> <b>Architect</b> at Softin.co</h3>
 
 Built an application licensing API. Prototyped a project management web service. Performed UX design and art direction for a mobile game project.
 
-<i class="fas fa-tools"></i> Ruby, Ruby on Rails.
+<i class="fas fa-tools tech-icon"></i> Ruby, Ruby on Rails.
 
 <h3><span class="text-muted">2012–2013:</span> <b>Senior software developer</b> at Luxoft (Hewlett Packard)</h3>
 
 Participated in WebInspect project development, an [OWASP](https://owasp.org)-based web app vulnerability scanner. New features implementation, UI i18n, technical documentation, interviewing and onboarding new developers.
 
-<i class="fas fa-tools"></i> C#/.NET, WinForms (MVVM), WPF, Microsoft SQL Server.
+<i class="fas fa-tools tech-icon"></i> C#/.NET, WinForms (MVVM), WPF, Microsoft SQL Server.
 
 <h3><span class="text-muted">2008–2011:</span> <b>Software developer</b> at Lanit-Tercom (R&D)</h3>
 
 Enterprise software development, deployment and support. Requirements analysis, tasks decomposition and estimation, specifications drafting, project documentation. UI prototyping, IA design.
 
-<i class="fas fa-tools"></i> .NET/C#, WinForms, WPF, PL/SQL, Java, Flex, Microsoft SQL Server, Microsoft Office integration.
+<i class="fas fa-tools tech-icon"></i> .NET/C#, WinForms, WPF, PL/SQL, Java, Flex, Microsoft SQL Server, Microsoft Office integration.
 
 <h3><span class="text-muted">2006–2009:</span> <b>Software developer</b> at SZMA LLC (R&D)</h3>
 
 Distributed software development, testing, deployment, and support. Desktop apps and web services for financial data collection and analysis. Middleware for Matlab integration with Metaquotes MetaTrader trading platform. Requirements analysis, specification drafting, and project documentation.
 
-<i class="fas fa-tools"></i> .NET/C#, Matlab, MQL (Metatrader), MySQL, PHP, Python.
+<i class="fas fa-tools tech-icon"></i> .NET/C#, Matlab, MQL (Metatrader), MySQL, PHP, Python.
 
 <h3><span class="text-muted">2004–2008:</span> <b>Postgraduate student, professor assistant</b> at St. Petersburg Institute for Informatics and Automation of the Russian Academy of Sciences</h3>
 
@@ -106,7 +106,7 @@ Learning course development for third-year university students at Admiral Makaro
 
 Distributed software development for enterprise automation and monitoring systems. Data aggregation and visualization. Embedded software development. Requirements analysis, technical documentation.
 
-<i class="fas fa-tools"></i> C, C#, MySQL, HTML, CSS
+<i class="fas fa-tools tech-icon"></i> C, C#, MySQL, HTML, CSS
 
 ## Personal projects
 
