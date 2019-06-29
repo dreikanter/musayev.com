@@ -44,7 +44,7 @@ I have 15 years of experience in software development, including 5 years working
 
 As a remote developer, I value transparent communication and workflows. I can work independently or join a team. I have experience in leading a small development team as well.
 
-## Skills and Technologies
+## Skills and technologies
 
 - Primary languages: **Ruby** (Rails, dry-rb, Minitest, Sidekiq), **JavaScript** (React, Redux)
 - Web: HTML5, CSS3, SASS, Webpack, countless front-end frameworks and libraries
