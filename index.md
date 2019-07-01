@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Alex Musayev
 ---
 
 <div class="row">
