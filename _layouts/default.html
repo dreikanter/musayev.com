@@ -69,6 +69,7 @@
 
     .section,
     .subsection {
+      border: 1px solid transparent;
       padding: 1.5rem 2rem .5rem 2rem;
     }
 
@@ -79,15 +80,11 @@
     .section:target,
     .subsection:target {
       background-color: #ffffcc;
-      border: 1px solid #eeeedd;
+      border-color: #eeeedd;
       border-radius: .5rem;
     }
 
     @media screen and (max-width: 500px) {
-      .layout {
-
-      }
-
       .section,
       .subsection {
         padding: 1rem 1rem .5rem 1rem;
