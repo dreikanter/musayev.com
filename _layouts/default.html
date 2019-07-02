@@ -43,7 +43,7 @@
 
     .layout {
       font-size:  1.1rem;
-      margin: calc(1em + 2vh) auto;
+      margin: calc(.5rem + 1vh) auto;
       max-width: 800px;
       padding: 0;
       width: calc(100% - 1rem);
@@ -66,13 +66,13 @@
       color: gray;
     }
 
-    .section {
+    .section,
+    .subsection {
       padding: 1.5rem 2rem .5rem 2rem;
     }
 
     .subsection {
       margin: .5rem -2rem;
-      padding: 1.5rem 2rem .5rem 2rem;
     }
 
     .section:target,
@@ -80,6 +80,21 @@
       background-color: #ffffcc;
       border: 1px solid #eeeedd;
       border-radius: .5rem;
+    }
+
+    @media screen and (max-width: 500px) {
+      .layout {
+
+      }
+
+      .section,
+      .subsection {
+        padding: 1rem 1rem .5rem 1rem;
+      }
+
+      .subsection {
+        margin: .5rem -1rem;
+      }
     }
   </style>
 </head>
