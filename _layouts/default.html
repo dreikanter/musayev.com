@@ -23,6 +23,7 @@
       font-size: 1.25rem;
       font-weight: 500;
       color: gray;
+      line-height: 1.3;
     }
 
     h1 > a,
@@ -67,31 +68,42 @@
       fill: gray;
     }
 
-    .section,
-    .subsection {
-      border: 1px solid transparent;
-      padding: 1.5rem 2rem .5rem 2rem;
+    .section {
+      padding: 1rem 2rem 1rem 2rem;
+      margin-bottom: 1rem;
     }
 
     .subsection {
-      margin: .5rem -2rem;
+      margin: 0 -2rem 1rem;
+      padding: 1rem 2rem;
     }
 
     .section:target,
     .subsection:target {
       background-color: #ffffcc;
       border-color: #eeeedd;
-      border-radius: .5rem;
+    }
+
+    section p:last-child,
+    section ul:last-child,
+    section ol:last-child,
+    .subsection:last-child {
+      margin-bottom:  0;
     }
 
     @media screen and (max-width: 500px) {
       .section,
-      .subsection {
-        padding: 1rem 1rem .5rem 1rem;
+      .subsection
+      {
+        padding: 1rem;
       }
 
       .subsection {
-        margin: .5rem -1rem;
+        margin: 0 -1rem 1rem;
+      }
+
+      .download-container {
+        margin-top: 2rem;
       }
     }
   </style>
