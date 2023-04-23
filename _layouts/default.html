@@ -9,105 +9,31 @@
   {%- endif -%}
   <title>{{ site.title }}</title>
   <link rel="icon" href="data:,">
-  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-  <link href="https://fonts.googleapis.com/css?family=PT+Sans:700&display=swap" rel="stylesheet">
+  <!-- <link href="https://fonts.googleapis.com/css?family=PT+Sans:700&display=swap" rel="stylesheet"> -->
+
+  <link rel="stylesheet" href="https://unpkg.com/chota@latest">
   <style>
+    :root {
+/*       --bg-color: #ffffff;
+      --bg-secondary-color: #f3f3f6;
+ */      --color-primary: #3366cc;
+/*       --color-lightGrey: #d2d6dd;
+      --color-grey: #747681;
+      --color-darkGrey: #3f4144;
+      --color-error: #d43939;
+      --color-success: #28bd14; */
+      --grid-maxWidth: 80rem;
+      --grid-gutter: 2rem;
+      --font-size: 1.8rem;
+      --font-color: black;
+      --font-family-sans: sans-serif;
+      --font-family-mono: monaco, "Consolas", "Lucida Console", monospace;
+    }
+
     h1,
-    h2,
-    h3 {
-      font-family: "PT Sans", Helvetica, Arial, sans-serif;
-    }
-
     h2 {
-      margin-bottom: 1rem;
-    }
-
-    h3 {
-      font-size: 1.25rem;
-      font-weight: 500;
-      color: gray;
-      line-height: 1.3;
-    }
-
-    h1 > a,
-    h2 > a,
-    h3 > a {
-      color: black;
-    }
-
-    h3 > em {
-      font-style: normal;
-    }
-
-    .layout {
-      font-size:  1.1rem;
-      margin: calc(.5rem + 1vh) auto;
-      max-width: 800px;
-      padding: 0;
-      width: calc(100% - 1rem);
-    }
-
-    .download-container {
-      margin-top: .3rem;
-      text-align: center;
-    }
-
-    .lead {
-      font-weight: normal;
-    }
-
-    .screenshot {
-      max-width:  100%;
-    }
-
-    .icon {
-      fill: currentColor;
-      height: 1rem;
-      position: relative;
-      top: -0.15rem;
-    }
-
-    .icon--tools {
-      fill: gray;
-    }
-
-    .section {
-      padding: 1rem 2rem 1rem 2rem;
-      margin-bottom: 1rem;
-    }
-
-    .subsection {
-      margin: 0 -2rem 1rem;
-      padding: 1rem 2rem;
-    }
-
-    .section:target,
-    .subsection:target {
-      background-color: #ffffcc;
-      border-color: #eeeedd;
-    }
-
-    section p:last-child,
-    section ul:last-child,
-    section ol:last-child,
-    .subsection:last-child {
-      margin-bottom:  0;
-    }
-
-    @media screen and (max-width: 500px) {
-      .section,
-      .subsection
-      {
-        padding: 1rem;
-      }
-
-      .subsection {
-        margin: 0 -1rem 1rem;
-      }
-
-      .download-container {
-        margin-top: 2rem;
-      }
+      margin-top: 4rem;
+      margin-bottom: 0;
     }
   </style>
 </head>
